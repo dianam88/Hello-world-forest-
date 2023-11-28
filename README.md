@@ -1,6 +1,6 @@
 # Hello-world-forest
 
-## Descripcion
+## Descripción
 
 Hello, this is my second project, a  **interface of website**  🤞
 
